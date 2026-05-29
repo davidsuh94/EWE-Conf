@@ -1,0 +1,502 @@
+[
+  {
+    "Item ID": "01",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Buras, Plaquemines Parish, Louisiana, USA",
+    "Latitude": 29.16,
+    "Longitude": -89.6,
+    "Temperature (T-6h)": "79°F / 26°C",
+    "Wind Speed/Direction (T-6h)": "120 mph (104 kt) sustained, WNW at 15 mph",
+    "MSLP (T-6h)": "918 hPa"
+  },
+  {
+    "Item ID": "02",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Guiuan, Eastern Samar, Philippines",
+    "Latitude": 11.03,
+    "Longitude": 125.72,
+    "Temperature (T-6h)": "84°F / 29°C",
+    "Wind Speed/Direction (T-6h)": "170 kt (~195 mph) sustained, WNW at 30 kt",
+    "MSLP (T-6h)": "895 hPa"
+  },
+  {
+    "Item ID": "03",
+    "Event Type": "Tornado Outbreak",
+    "Location": "Tuscaloosa / Jefferson Co., Alabama, USA",
+    "Latitude": 33.21,
+    "Longitude": -87.57,
+    "Temperature (T-6h)": "79°F / 26°C",
+    "Wind Speed/Direction (T-6h)": "SSW 28 mph, strong low-level jet active",
+    "MSLP (T-6h)": "997 hPa"
+  },
+  {
+    "Item ID": "04",
+    "Event Type": "Heat Wave",
+    "Location": "Paris Montsouris, France (WMO #07156)",
+    "Latitude": 48.82,
+    "Longitude": 2.34,
+    "Temperature (T-6h)": "33C / 91F",
+    "Wind Speed/Direction (T-6h)": "ESE 10 km/h (~6 mph)",
+    "MSLP (T-6h)": "1024 hPa"
+  },
+  {
+    "Item ID": "05",
+    "Event Type": "Hybrid Tropical Cyclone",
+    "Location": "Brigantine, Atlantic County, New Jersey, USA",
+    "Latitude": 39.41,
+    "Longitude": -74.33,
+    "Temperature (T-6h)": "62°F / 17°C",
+    "Wind Speed/Direction (T-6h)": "80 mph (70 kt) sustained, WNW at 28 mph",
+    "MSLP (T-6h)": "948 hPa"
+  },
+  {
+    "Item ID": "06",
+    "Event Type": "Arctic Outbreak / Winter Storm",
+    "Location": "Dallas Love Field ASOS (KDAL), Texas, USA",
+    "Latitude": 32.85,
+    "Longitude": -96.85,
+    "Temperature (T-6h)": "5°F / -15°C",
+    "Wind Speed/Direction (T-6h)": "NNW 22 mph",
+    "MSLP (T-6h)": "1038 hPa"
+  },
+  {
+    "Item ID": "07",
+    "Event Type": "Heat Wave",
+    "Location": "Portland ASOS (KPDX), Oregon, USA",
+    "Latitude": 45.59,
+    "Longitude": -122.6,
+    "Temperature (T-6h)": "91°F / 33°C (record-breaking at 8 AM)",
+    "Wind Speed/Direction (T-6h)": "W 5 mph",
+    "MSLP (T-6h)": "1022 hPa"
+  },
+  {
+    "Item ID": "08",
+    "Event Type": "Tornado",
+    "Location": "Joplin (22nd and Main St), Missouri, USA",
+    "Latitude": 37.08,
+    "Longitude": -94.51,
+    "Temperature (T-6h)": "75°F / 24°C",
+    "Wind Speed/Direction (T-6h)": "SSW 22 mph, shear environment actively developing",
+    "MSLP (T-6h)": "998 hPa"
+  },
+  {
+    "Item ID": "09",
+    "Event Type": "Flash Flood",
+    "Location": "Whitesburg, Letcher County, Kentucky, USA",
+    "Latitude": 37.12,
+    "Longitude": -82.91,
+    "Temperature (T-6h)": "70°F / 21°C",
+    "Wind Speed/Direction (T-6h)": "ESE 8 mph, persistent moist Gulf inflow",
+    "MSLP (T-6h)": "1011 hPa"
+  },
+  {
+    "Item ID": "10",
+    "Event Type": "Polar Vortex Displacement",
+    "Location": "Chicago O'Hare ASOS (KORD), Illinois, USA",
+    "Latitude": 41.98,
+    "Longitude": -87.9,
+    "Temperature (T-6h)": "-15°F / -26°C",
+    "Wind Speed/Direction (T-6h)": "NW 24 mph; wind chill -40°F / -40°C",
+    "MSLP (T-6h)": "1038 hPa"
+  },
+  {
+    "Item ID": "11",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Rockport, Aransas County, Texas, USA",
+    "Latitude": 28.03,
+    "Longitude": -97.05,
+    "Temperature (T-6h)": "88°F / 31°C",
+    "Wind Speed/Direction (T-6h)": "110 kt (~127 mph) sustained, WNW at 9 mph",
+    "MSLP (T-6h)": "937 hPa"
+  },
+  {
+    "Item ID": "12",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Yabucoa, Puerto Rico, USA",
+    "Latitude": 18.05,
+    "Longitude": -65.89,
+    "Temperature (T-6h)": "84°F / 29°C",
+    "Wind Speed/Direction (T-6h)": "140 kt (~161 mph) sustained, WNW at 15 mph",
+    "MSLP (T-6h)": "910 hPa"
+  },
+  {
+    "Item ID": "13",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Cudjoe Key, Monroe County, Florida, USA",
+    "Latitude": 24.67,
+    "Longitude": -81.52,
+    "Temperature (T-6h)": "82°F / 28°C",
+    "Wind Speed/Direction (T-6h)": "130 kt (~150 mph) sustained, NNW at 8 mph",
+    "MSLP (T-6h)": "929 hPa"
+  },
+  {
+    "Item ID": "14",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Cayo Costa, Lee County, Florida, USA",
+    "Latitude": 26.67,
+    "Longitude": -82.26,
+    "Temperature (T-6h)": "85°F / 29°C",
+    "Wind Speed/Direction (T-6h)": "125 kt (~144 mph) sustained, NNE at 10 mph",
+    "MSLP (T-6h)": "940 hPa"
+  },
+  {
+    "Item ID": "15",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Port Fourchon, Lafourche Parish, Louisiana, USA",
+    "Latitude": 29.11,
+    "Longitude": -90.2,
+    "Temperature (T-6h)": "86°F / 30°C",
+    "Wind Speed/Direction (T-6h)": "130 kt (~150 mph) sustained, NNW at 15 mph",
+    "MSLP (T-6h)": "931 hPa"
+  },
+  {
+    "Item ID": "16",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Homestead, Miami-Dade County, Florida, USA",
+    "Latitude": 25.51,
+    "Longitude": -80.27,
+    "Temperature (T-6h)": "84°F / 29°C",
+    "Wind Speed/Direction (T-6h)": "120 kt (~138 mph) sustained, WNW at 17 mph",
+    "MSLP (T-6h)": "940 hPa"
+  },
+  {
+    "Item ID": "17",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Hainggyikyun Island, Ayeyarwady Delta, Myanmar",
+    "Latitude": 16.5,
+    "Longitude": 95,
+    "Temperature (T-6h)": "84°F / 29°C",
+    "Wind Speed/Direction (T-6h)": "100 kt (~115 mph) sustained, ENE at 14 kt",
+    "MSLP (T-6h)": "962 hPa"
+  },
+  {
+    "Item ID": "18",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Baggao, Cagayan Province, Philippines",
+    "Latitude": 18.2,
+    "Longitude": 121.43,
+    "Temperature (T-6h)": "83°F / 28°C",
+    "Wind Speed/Direction (T-6h)": "155 kt (~178 mph) sustained, WNW at 28 kt",
+    "MSLP (T-6h)": "900 hPa"
+  },
+  {
+    "Item ID": "19",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Port Vila, Efate Island, Vanuatu",
+    "Latitude": -17.73,
+    "Longitude": 168.32,
+    "Temperature (T-6h)": "84°F / 29°C",
+    "Wind Speed/Direction (T-6h)": "150 kt (~173 mph) sustained, SSE at 22 kt",
+    "MSLP (T-6h)": "895 hPa"
+  },
+  {
+    "Item ID": "20",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Beira, Sofala Province, Mozambique",
+    "Latitude": -19.84,
+    "Longitude": 34.84,
+    "Temperature (T-6h)": "82°F / 28°C",
+    "Wind Speed/Direction (T-6h)": "115 kt (~132 mph) sustained, SSW at 10 kt",
+    "MSLP (T-6h)": "949 hPa"
+  },
+  {
+    "Item ID": "21",
+    "Event Type": "Mediterranean Cyclone",
+    "Location": "Derna, Derna District, Libya",
+    "Latitude": 32.76,
+    "Longitude": 22.64,
+    "Temperature (T-6h)": "25°C / 77°F",
+    "Wind Speed/Direction (T-6h)": "NE 40 km/h (~25 mph), cyclonic inflow",
+    "MSLP (T-6h)": "997 hPa"
+  },
+  {
+    "Item ID": "22",
+    "Event Type": "Flash Flood",
+    "Location": "Altenahr, Ahrweiler District, Rhineland-Palatinate, Germany",
+    "Latitude": 50.53,
+    "Longitude": 7.02,
+    "Temperature (T-6h)": "17°C / 63°F",
+    "Wind Speed/Direction (T-6h)": "E 18 km/h (~11 mph)",
+    "MSLP (T-6h)": "1007 hPa"
+  },
+  {
+    "Item ID": "23",
+    "Event Type": "Monsoon Flooding",
+    "Location": "Larkana, Sindh Province, Pakistan",
+    "Latitude": 27.52,
+    "Longitude": 68.76,
+    "Temperature (T-6h)": "32°C / 90°F",
+    "Wind Speed/Direction (T-6h)": "SW 15 km/h (~9 mph), monsoon flow",
+    "MSLP (T-6h)": "1004 hPa"
+  },
+  {
+    "Item ID": "24",
+    "Event Type": "Heat Wave",
+    "Location": "Hyderabad, Telangana, India",
+    "Latitude": 17.38,
+    "Longitude": 78.47,
+    "Temperature (T-6h)": "41°C / 106°F",
+    "Wind Speed/Direction (T-6h)": "W 10 km/h (~6 mph)",
+    "MSLP (T-6h)": "1001 hPa"
+  },
+  {
+    "Item ID": "25",
+    "Event Type": "Heat Wave",
+    "Location": "Chicago Midway Airport (KMDW), Illinois, USA",
+    "Latitude": 41.79,
+    "Longitude": -87.75,
+    "Temperature (T-6h)": "34°C / 93°F",
+    "Wind Speed/Direction (T-6h)": "SW 8 mph",
+    "MSLP (T-6h)": "1015 hPa"
+  },
+  {
+    "Item ID": "26",
+    "Event Type": "Tornado",
+    "Location": "Moore, Cleveland County, Oklahoma, USA",
+    "Latitude": 35.33,
+    "Longitude": -97.49,
+    "Temperature (T-6h)": "77°F / 25°C",
+    "Wind Speed/Direction (T-6h)": "S-SW 28 mph, active low-level jet",
+    "MSLP (T-6h)": "995 hPa"
+  },
+  {
+    "Item ID": "27",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Les Anglais, Grand'Anse Department, Haiti",
+    "Latitude": 18.25,
+    "Longitude": -73.98,
+    "Temperature (T-6h)": "83°F / 28°C",
+    "Wind Speed/Direction (T-6h)": "140 kt (~161 mph) sustained, N at 8 kt",
+    "MSLP (T-6h)": "934 hPa"
+  },
+  {
+    "Item ID": "28",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Cameron, Cameron Parish, Louisiana, USA",
+    "Latitude": 29.8,
+    "Longitude": -93.32,
+    "Temperature (T-6h)": "86°F / 30°C",
+    "Wind Speed/Direction (T-6h)": "130 kt (~150 mph) sustained, NNW at 15 kt",
+    "MSLP (T-6h)": "937 hPa"
+  },
+  {
+    "Item ID": "29",
+    "Event Type": "Derecho",
+    "Location": "Columbus, Franklin County, Ohio, USA",
+    "Latitude": 39.96,
+    "Longitude": -82.99,
+    "Temperature (T-6h)": "95°F / 35°C",
+    "Wind Speed/Direction (T-6h)": "SW 15 mph, strong capping present",
+    "MSLP (T-6h)": "1006 hPa"
+  },
+  {
+    "Item ID": "30",
+    "Event Type": "Derecho",
+    "Location": "Cedar Rapids, Linn County, Iowa, USA",
+    "Latitude": 41.98,
+    "Longitude": -91.66,
+    "Temperature (T-6h)": "84°F / 29°C",
+    "Wind Speed/Direction (T-6h)": "SSE 18 mph, elevated boundary layer instability",
+    "MSLP (T-6h)": "1010 hPa"
+  },
+  {
+    "Item ID": "31",
+    "Event Type": "Extratropical Cyclone",
+    "Location": "Birmingham, Jefferson County, Alabama, USA",
+    "Latitude": 33.55,
+    "Longitude": -86.8,
+    "Temperature (T-6h)": "35°F / 2°C",
+    "Wind Speed/Direction (T-6h)": "NW 35 mph, blizzard conditions developing",
+    "MSLP (T-6h)": "965 hPa"
+  },
+  {
+    "Item ID": "32",
+    "Event Type": "Flash Flood",
+    "Location": "Boulder, Boulder County, Colorado, USA",
+    "Latitude": 40.01,
+    "Longitude": -105.27,
+    "Temperature (T-6h)": "65°F / 18°C",
+    "Wind Speed/Direction (T-6h)": "ENE 10 mph, persistent upslope flow",
+    "MSLP (T-6h)": "1013 hPa"
+  },
+  {
+    "Item ID": "33",
+    "Event Type": "Riverine Flood",
+    "Location": "Cedar Rapids, Linn County, Iowa, USA",
+    "Latitude": 41.98,
+    "Longitude": -91.66,
+    "Temperature (T-6h)": "72°F / 22°C",
+    "Wind Speed/Direction (T-6h)": "S-SW 12 mph",
+    "MSLP (T-6h)": "1008 hPa"
+  },
+  {
+    "Item ID": "34",
+    "Event Type": "Flash Flood",
+    "Location": "Hiroshima, Hiroshima Prefecture, Japan",
+    "Latitude": 34.4,
+    "Longitude": 132.46,
+    "Temperature (T-6h)": "28°C / 82°F",
+    "Wind Speed/Direction (T-6h)": "SE 18 km/h (~11 mph)",
+    "MSLP (T-6h)": "1007 hPa"
+  },
+  {
+    "Item ID": "35",
+    "Event Type": "Riverine Flood",
+    "Location": "Lismore, Richmond Valley, New South Wales, Australia",
+    "Latitude": -28.81,
+    "Longitude": 153.28,
+    "Temperature (T-6h)": "23°C / 73°F",
+    "Wind Speed/Direction (T-6h)": "NNE 28 km/h (~17 mph), tropical moisture feed",
+    "MSLP (T-6h)": "1004 hPa"
+  },
+  {
+    "Item ID": "36",
+    "Event Type": "Heat Wave",
+    "Location": "Observatory Hill, Sydney, New South Wales, Australia",
+    "Latitude": -33.87,
+    "Longitude": 151.21,
+    "Temperature (T-6h)": "36°C / 97°F",
+    "Wind Speed/Direction (T-6h)": "NW 28 km/h (~17 mph), hot northerly",
+    "MSLP (T-6h)": "1016 hPa"
+  },
+  {
+    "Item ID": "37",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Kagoshima, Kagoshima Prefecture, Japan",
+    "Latitude": 31.6,
+    "Longitude": 130.56,
+    "Temperature (T-6h)": "28°C / 82°F",
+    "Wind Speed/Direction (T-6h)": "105 kt (~121 mph) sustained, NNW at 10 kt",
+    "MSLP (T-6h)": "940 hPa"
+  },
+  {
+    "Item ID": "38",
+    "Event Type": "Monsoon Flooding",
+    "Location": "Nowshera, Khyber Pakhtunkhwa, Pakistan",
+    "Latitude": 34.02,
+    "Longitude": 71.98,
+    "Temperature (T-6h)": "34°C / 93°F",
+    "Wind Speed/Direction (T-6h)": "SW 20 km/h (~12 mph), active monsoon flow",
+    "MSLP (T-6h)": "1003 hPa"
+  },
+  {
+    "Item ID": "39",
+    "Event Type": "Tropical Cyclone",
+    "Location": "Gulf Shores, Baldwin County, Alabama, USA",
+    "Latitude": 30.26,
+    "Longitude": -87.7,
+    "Temperature (T-6h)": "85°F / 29°C",
+    "Wind Speed/Direction (T-6h)": "115 kt (~132 mph) sustained, NNW at 12 kt",
+    "MSLP (T-6h)": "946 hPa"
+  },
+  {
+    "Item ID": "40",
+    "Event Type": "Tropical Cyclone (Post-tropical)",
+    "Location": "Palm Springs area, Riverside County, California, USA",
+    "Latitude": 33.73,
+    "Longitude": -116.37,
+    "Temperature (T-6h)": "89°F / 32°C",
+    "Wind Speed/Direction (T-6h)": "SW 38 mph (~33 kt) tropical-storm-force",
+    "MSLP (T-6h)": "1003 hPa"
+  },
+  {
+    "Item ID": "41",
+    "Event Type": "Polar Vortex Displacement",
+    "Location": "Chicago O'Hare ASOS (KORD), Illinois, USA",
+    "Latitude": 41.98,
+    "Longitude": -87.9,
+    "Temperature (T-6h)": "-11°F / -24°C",
+    "Wind Speed/Direction (T-6h)": "NW 22 mph; wind chill -35°F / -37°C",
+    "MSLP (T-6h)": "1036 hPa"
+  },
+  {
+    "Item ID": "42",
+    "Event Type": "Early-Season Blizzard",
+    "Location": "Rapid City, Pennington County, South Dakota, USA",
+    "Latitude": 44.08,
+    "Longitude": -103.23,
+    "Temperature (T-6h)": "26°F / -3°C",
+    "Wind Speed/Direction (T-6h)": "NNE 40 mph, blizzard conditions",
+    "MSLP (T-6h)": "977 hPa"
+  },
+  {
+    "Item ID": "43",
+    "Event Type": "Flash Flood",
+    "Location": "Wimberley, Hays County, Texas, USA",
+    "Latitude": 30,
+    "Longitude": -98.1,
+    "Temperature (T-6h)": "72°F / 22°C",
+    "Wind Speed/Direction (T-6h)": "S 12 mph, strong moisture inflow",
+    "MSLP (T-6h)": "1009 hPa"
+  },
+  {
+    "Item ID": "44",
+    "Event Type": "Flash Flood",
+    "Location": "Baton Rouge, East Baton Rouge Parish, Louisiana, USA",
+    "Latitude": 30.45,
+    "Longitude": -91.15,
+    "Temperature (T-6h)": "88°F / 31°C",
+    "Wind Speed/Direction (T-6h)": "SSE 12 mph, deep Gulf moisture",
+    "MSLP (T-6h)": "1010 hPa"
+  },
+  {
+    "Item ID": "45",
+    "Event Type": "Blizzard",
+    "Location": "Philadelphia International Airport (KPHL), Pennsylvania, USA",
+    "Latitude": 39.87,
+    "Longitude": -75.24,
+    "Temperature (T-6h)": "28°F / -2°C",
+    "Wind Speed/Direction (T-6h)": "NE 28 mph, heavy snow developing",
+    "MSLP (T-6h)": "975 hPa"
+  },
+  {
+    "Item ID": "46",
+    "Event Type": "Bomb Cyclone",
+    "Location": "Omaha, Douglas County, Nebraska, USA",
+    "Latitude": 41.26,
+    "Longitude": -95.86,
+    "Temperature (T-6h)": "33°F / 1°C",
+    "Wind Speed/Direction (T-6h)": "NNW 40 mph, blizzard conditions",
+    "MSLP (T-6h)": "968 hPa"
+  },
+  {
+    "Item ID": "47",
+    "Event Type": "Riverine Flood",
+    "Location": "Calgary, Alberta, Canada",
+    "Latitude": 51.05,
+    "Longitude": -114.07,
+    "Temperature (T-6h)": "14°C / 57°F",
+    "Wind Speed/Direction (T-6h)": "SW 15 km/h (~9 mph)",
+    "MSLP (T-6h)": "1008 hPa"
+  },
+  {
+    "Item ID": "48",
+    "Event Type": "Heat Wave",
+    "Location": "Phoenix Sky Harbor Airport (KPHX), Maricopa County, Arizona, USA",
+    "Latitude": 33.44,
+    "Longitude": -112.01,
+    "Temperature (T-6h)": "108°F / 42°C",
+    "Wind Speed/Direction (T-6h)": "W 8 mph",
+    "MSLP (T-6h)": "1003 hPa"
+  },
+  {
+    "Item ID": "49",
+    "Event Type": "Flash Flood",
+    "Location": "Montpelier, Washington County, Vermont, USA",
+    "Latitude": 44.26,
+    "Longitude": -72.58,
+    "Temperature (T-6h)": "70°F / 21°C",
+    "Wind Speed/Direction (T-6h)": "SE 8 mph, slow-moving system",
+    "MSLP (T-6h)": "1010 hPa"
+  },
+  {
+    "Item ID": "50",
+    "Event Type": "Blizzard",
+    "Location": "Chicago O'Hare ASOS (KORD), Illinois, USA",
+    "Latitude": 41.98,
+    "Longitude": -87.9,
+    "Temperature (T-6h)": "26°F / -3°C",
+    "Wind Speed/Direction (T-6h)": "NE 32 mph, heavy snow developing",
+    "MSLP (T-6h)": "972 hPa"
+  }
+]
