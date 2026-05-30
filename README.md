@@ -35,7 +35,7 @@ These items were then scored against the ground-truth weather states and confide
 | `MSLP (T+0)` | `str` | Mean sea-level pressure at event time |
 | `Source Links` | `str` | Pipe-delimited URLs to primary verification sources |
 
-### Prediction Files — Model Output Schema
+### Prediction Files — `[ChatGPT/Claude/Gemini]_Extreme_Weather_Results.xlsx`
 
 Each model was given only the T-6h input columns and asked to generate the following predictions. Column names varied across models; the consolidated file standardises all three to the schema below.
 
@@ -59,7 +59,7 @@ Each model was given only the T-6h input columns and asked to generate the follo
 
 ## Prompt & Rubric Design
 ### Prompt
-For the LLMs Claude Sonnet 4.6, ChatGPT 5.5, and Google Gemini 3, the file `extreme_weather_events_50_no_gt.xlsx' without ground-truth confidence and event name, and the following prompt was fed in:
+For the LLMs Claude Sonnet 4.6, ChatGPT 5.5, and Google Gemini 3, the file `extreme_weather_events_50_no_gt.xlsx` without ground-truth confidence and event name, and the following prompt was fed in:
 ```
 For the given temperature, wind speed and direction, MSLP, and location 6 hours prior, predict whether each item's event type will occur, the affected region, its severity from low/medium/high/extreme, a forecast confidence, and the at-event conditions with the same variables.
 ```
