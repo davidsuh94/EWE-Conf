@@ -147,5 +147,5 @@ $$\text{Calibration} = 1 - \frac{|\text{Predicted Confidence} - \text{GT Confide
 
 ### Limitations
 
-- **LLM Incosistency:** General LLMs may not output data structure the way I would like if not prompted correctly. Good prompt engineering is required to get desired data.
+- **LLM Inconsistency:** General LLMs may not output data structure the way I would like if not prompted correctly. Good prompt engineering is required to get desired data.
 - **Misuse Risk:** Miscalibrated bencmarks could influence real decisions. This benchmark was not created by an expert and should not be used in place of experts in the field.
