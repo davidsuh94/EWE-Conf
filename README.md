@@ -57,8 +57,14 @@ Each model was given only the T-6h input columns and asked to generate the follo
 | `At-Event Wind` | `str` | Predicted wind speed/direction at event time |
 | `At-Event MSLP` | `str` | Predicted MSLP at event time (hPa) |
 
-## Rubric Design
+## Prompt & Rubric Design
+### Prompt
+For the LLMs Claude Sonnet 4.6, ChatGPT 5.5, and Google Gemini 3, the file `extreme_weather_events_50_no_gt.xlsx' without ground-truth confidence and event name, and the following prompt was fed in:
+```
+For the given temperature, wind speed and direction, MSLP, and location 6 hours prior, predict whether each item's event type will occur, the affected region, its severity from low/medium/high/extreme, a forecast confidence, and the at-event conditions with the same variables.
+```
 
+### Rubric
 Each predicted event is scored on three independent sub-dimensions. Scores are summed to a **maximum of 4.0 points**.
 
 ```
@@ -121,6 +127,7 @@ Evaluates how well the model's self-reported confidence tracks the ground truth 
 
 $$\text{Calibration} = 1 - \frac{|\text{Predicted Confidence} - \text{GT Confidence}|}{100}$$
 
+**Examples**
 | Predicted Conf | GT Conf | \|Δ\| | Score |
 |---------------|---------|--------|-------|
 | 97% | 92% | 5 | 0.95 |
@@ -129,3 +136,16 @@ $$\text{Calibration} = 1 - \frac{|\text{Predicted Confidence} - \text{GT Confide
 | 60% | 60% | 0 | 1.00 |
 
 ---
+
+## Results Summary
+
+| Model | N | Mean Correctness | Mean Sev. Alignment | Mean Calibration | **Mean Total** |
+|-------|---|-----------------|--------------------|--------------------|----------------|
+| ChatGPT | 50 | 2.000 | 0.680 | 0.764 | **3.444** |
+| Claude | 50 | 2.000 | 0.622 | 0.724 | **3.346** |
+| Gemini | 50 | 1.780 | 0.700 | 0.823 | **3.303** |
+
+### Limitations
+
+- **LLM Incosistency:** General LLMs may not output data structure the way I would like if not prompted correctly. Good prompt engineering is required to get desired data.
+- **Misuse Risk:** Miscalibrated bencmarks could influence real decisions. This benchmark was not created by an expert and should not be used in place of experts in the field.
